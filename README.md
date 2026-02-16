@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ aayeshakhn16@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Self Project - Job Appliction Tracker(Focusing Django Backend,API,react)
+- 🔭 **I’m currently working on:** Self Project - Job Application Tracker(Focusing Django Backend,API,react)
 - 🌱 **I’m currently learning:** Pyhton full stack development (FastAPI/Django, SQL, REST APIs)
 - 👯 **I’m looking to collaborate on:** Python, AI, and full-stack projects
 - 📫 **How to reach me:** aayeshakhn16@gmail.com
